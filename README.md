@@ -24,4 +24,4 @@ localhost:3000/remover-usuario?id=1
 ```
 A base de dados é em formato de arquivo
 
-### Projeto desenvolvido pelo curso Hiring coders/ [Gama Academy](hhttps://www.gama.academy/) com professor de node.js [Éric Borges](https://www.linkedin.com/in/erikborges/)
+### Projeto desenvolvido pelo curso Hiring coders/Gama Academy com professor de node.js [Éric Borges](https://www.linkedin.com/in/erikborges/)
